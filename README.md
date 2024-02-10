@@ -40,3 +40,6 @@ Experiment 3 examines the impact of the training dataset size on the model's per
 **Conclusion**
 
 Backpropagation is a powerful algorithm for training neural networks, allowing them to learn complex patterns from data. Through experimentation and parameter tuning, we can optimize the training process and improve the model's performance. Understanding the backpropagation algorithm is essential for anyone working in the field of machine learning and neural networks.
+
+
+Dataset = https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?select=mnist_train.csv
